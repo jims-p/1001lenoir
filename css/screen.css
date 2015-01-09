@@ -1,0 +1,127 @@
+h4 {
+	font-size: 1.9rem;
+	line-height: 1.5rem;
+}
+
+h5 {
+	font-family: 'Open Sans';
+}
+
+p {
+	font-family: 'Open Sans'
+}
+
+.row {
+ 	max-width: 100%;
+}
+
+.button {
+	text-transform: uppercase;
+	font-family: "Varela Round", "Arial", "Helvetica", sans-serif;
+	font-weight: 400;
+	font-size: 1.6rem;
+	line-height: 1.4rem;
+	border-radius: 2px;
+	padding: 1.8rem 4rem 1.8625rem;
+}
+
+.header {
+	background: url(../img/header_001.jpg) no-repeat center center;
+	-webkit-background-size: contain;
+	-moz-background-size: contain;
+	-o-background-size: contain;
+	background-size: cover;
+	height: 250px;
+	color: #fff;
+}
+
+.title {
+	text-align: center;
+	line-height: 250px;
+}
+
+.title div {
+	vertical-align: middle;
+	display: inline-block;
+	line-height: 1.2;
+}
+
+.title h1 {
+	border-bottom: solid;
+}
+
+.title h1, .title span {
+	color: #fff;
+}
+
+.navig {
+	text-align: center;
+}
+
+.info_btn {
+	vertical-align: middle;
+	position: relative;
+	line-height: 200px;
+}
+
+.topbanner {
+	text-align: center;
+	margin: 10px 0;
+}
+
+.content {
+	border: solid 1px #a7a7a7;
+}
+
+.leftcontent {
+	border-right: solid 1px #a7a7a7;
+	padding-right: 0.9375rem;
+}
+
+.underspotlight {
+
+}
+
+.sidepanel {
+	background-color: #eaeaea;
+}
+
+.sidepanel div {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.sidepanel .button {
+	width: 100%;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.toppanel {
+	border-top: solid 1px #a7a7a7;
+	border-bottom: solid 1px #a7a7a7;
+}
+
+.secondbanner {
+	background-color: #d9d9d9;
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 64.063em) {
+	/*.leftcontent {
+		width: 700px;
+	}
+
+	.rightcontent {
+		width: 100%;
+	}
+
+	.sidepanel {
+		width: 310px;
+	}*/
+}
