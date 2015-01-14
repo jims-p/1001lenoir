@@ -11,13 +11,33 @@ p {
 	font-family: 'Open Sans'
 }
 
-.row {
- 	max-width: 100%;
+a {
+	color: #017eba;
 }
+
+h2 {
+	text-transform: uppercase;
+	font-family: "Varela Round", "Arial", "Helvetica", sans-serif;
+	font-weight: 400;
+	font-size: 1.2rem;
+}
+
+h3 {
+	font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+	font-size: 1rem;
+}
+
+a h3 {
+	color: #017eba;
+}
+
+/*.row {
+ 	max-width: 100%;
+}*/
 
 .button {
 	text-transform: uppercase;
-	font-family: "Varela Round", "Arial", "Helvetica", sans-serif;
+	font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
 	font-weight: 400;
 	font-size: 1.6rem;
 	line-height: 1.4rem;
@@ -33,6 +53,7 @@ p {
 	background-size: cover;
 	height: 250px;
 	color: #fff;
+	max-width: 100%;
 }
 
 .title {
@@ -62,7 +83,11 @@ p {
 	vertical-align: middle;
 	position: relative;
 	line-height: 200px;
+	transition: background-color 300ms ease-out;
 }
+
+ .info_btn:hover, .info_btn:focus {
+    background-color: #007095; }
 
 .topbanner {
 	text-align: center;
@@ -70,16 +95,19 @@ p {
 }
 
 .content {
-	border: solid 1px #a7a7a7;
+	/*border: solid 1px #a7a7a7;*/
 }
 
 .leftcontent {
-	border-right: solid 1px #a7a7a7;
+	/*border-right: solid 1px #a7a7a7;*/
 	padding-right: 0.9375rem;
 }
 
-.underspotlight {
-
+.row .underspotlight {
+	text-align: center;
+	border-bottom: solid 1px #dadada;
+	padding-bottom: 30px;
+	margin-top: 30px;
 }
 
 .sidepanel {
@@ -106,9 +134,153 @@ p {
 	background-color: #d9d9d9;
 }
 
+.footer {
+	max-width: 100%;
+	background-color: #333;
+	color: #fff;
+	font-family: "Open Sans", "Arial", "Helvetica, sans-serif";
+}
+
+.inner {
+	max-width: 62.5rem;
+	margin: auto;
+}
+
+.footer_1mile ul, .footer_rca ul {
+	list-style: none;
+	margin-left: 0;
+	font-size: 0.8rem;
+}
+
+.footer i {
+	margin-right: 5px;
+}
 
 
 
+
+/* --	ANNOUNCEMENTS	-- */
+.announcements {
+	margin: 10px 0 0;
+	padding: 20px 0 0;
+}
+
+.announcement_item {
+	position: relative;
+	border-bottom: solid 1px #dadada;
+	margin: 10px 0 0;
+	padding-bottom: 10px;
+}
+
+.announcement_item:last-of-type {
+	padding-bottom: 20px;
+	border-bottom: none;
+}
+
+.announcement_item .announcement_date {
+	right: 0;
+	top: 0;
+	position: absolute;
+}
+
+.announcement_item .readmore_link, .announcement_archive_link {
+	margin-right: 0;
+	float: right;
+	position: relative;
+	bottom: 20px;
+	font-weight: bold;
+	font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
+	font-size: 0.8rem;
+}
+
+.announcement_text {
+	font-size: 0.8rem;
+}
+
+.events {
+	margin: 30px 0;
+	border-bottom: solid 1px #dadada;
+	padding-bottom: 30px;
+}
+
+
+/* -- 	MEMBERS LIST 	-- */
+
+select {
+	 
+}
+
+
+
+.boxes_list {
+	list-style: none;
+	margin-left: 0;
+	text-align: center;
+	position: relative;
+	/*left: -50%;*/
+}
+
+.box_item {
+	float: left;
+	margin-bottom: 10px;
+	position: relative;
+	/*left: 50%;*/
+}
+
+.box_item:not(:first-of-type) {
+	/*margin-left: 10px;*/
+}
+
+.box_item a>div {
+	width: 190px;
+	height: 200px;
+	border: solid 1px #dadada;
+	text-align: center;
+	color: #fff;
+	position: relative;
+	display: inline-block;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.box_logo {
+	vertical-align: 10%;
+}
+
+.caption {
+	background-color: #017eba;
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+	height: 70px;
+	text-align: center;
+}
+
+.caption h3, .caption span {
+	color: #fff;
+	text-transform: uppercase;
+	font-family: "Varela Round", "Arial", "Helvetica", sans-serif;
+	margin-bottom: 15px;
+}
+
+.caption span {
+	font-size: 0.7rem;
+	line-height: 0.8rem;
+	display: block;
+}
+
+.boxes_section .viewall {
+	text-align: center;
+}
+
+.viewall .button {
+	width: 100%;
+	padding: 1rem 2rem 1.0625rem;
+}
 
 
 

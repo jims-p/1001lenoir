@@ -4,8 +4,40 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
 				"border",
 				"border"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-family"
 			],
 			[
 				"min",
@@ -28,10 +60,6 @@
 				"padding-left"
 			],
 			[
-				"text",
-				"text-transform"
-			],
-			[
 				"marg",
 				"margin"
 			],
@@ -48,14 +76,6 @@
 				"background-repeat"
 			],
 			[
-				"font",
-				"font"
-			],
-			[
-				"margin",
-				"margin"
-			],
-			[
 				"top",
 				"top-bar-section"
 			],
@@ -70,10 +90,6 @@
 			[
 				"in",
 				"infolettre"
-			],
-			[
-				"lis",
-				"list-style-position"
 			],
 			[
 				"list-styl",
@@ -140,10 +156,6 @@
 				"first-of-type"
 			],
 			[
-				"max",
-				"max-height"
-			],
-			[
 				"se",
 				"section	Tag"
 			],
@@ -194,10 +206,6 @@
 			[
 				"u",
 				"uppercase"
-			],
-			[
-				"fon",
-				"font-size"
 			],
 			[
 				"p",
@@ -279,7 +287,15 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 6215,
+				"buffer_size": 9846,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Marc/Documents/projects/store/templates/foundation-5.4.7/index.html",
+			"settings":
+			{
+				"buffer_size": 6424,
 				"line_ending": "Unix"
 			}
 		},
@@ -311,8 +327,16 @@
 			"file": "css/screen.css",
 			"settings":
 			{
-				"buffer_size": 1599,
+				"buffer_size": 4238,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Marc/Documents/projects/store/icons/foundation_icons_general/foundation_icons_general/demo.html",
+			"settings":
+			{
+				"buffer_size": 7812,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -348,9 +372,9 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/___projects/barbaraasgary/index.php",
 		"/C/wamp/www/___projects/barbaraasgary/css/foundation.css",
 		"/C/wamp/www/___projects/barbaraasgary/en/index.php",
-		"/C/wamp/www/___projects/barbaraasgary/index.php",
 		"/C/wamp/www/___projects/Ebenisterie/module/head.jsp",
 		"/C/wamp/www/___projects/Ebenisterie/style.css",
 		"/C/wamp/www/___projects/Ebenisterie/style.css.new",
@@ -747,15 +771,15 @@
 					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 6215,
+						"buffer_size": 9846,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6137,
-								6137
+								5993,
+								5993
 							]
 						],
 						"settings":
@@ -766,13 +790,41 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1238.0,
+						"translation.y": 1485.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "/C/Users/Marc/Documents/projects/store/templates/foundation-5.4.7/index.html",
+					"settings":
+					{
+						"buffer_size": 6424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "/C/wamp/www/___projects/Agrimetal FR/index.php",
 					"settings":
 					{
@@ -805,7 +857,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "/C/wamp/www/___projects/barbaraasgary/en/bio.php",
 					"settings":
 					{
@@ -833,7 +885,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "css/foundation.css",
 					"settings":
 					{
@@ -844,8 +896,8 @@
 						"selection":
 						[
 							[
-								121044,
-								121044
+								19113,
+								19021
 							]
 						],
 						"settings":
@@ -855,25 +907,25 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 88259.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 5,
 					"file": "css/screen.css",
 					"settings":
 					{
-						"buffer_size": 1599,
+						"buffer_size": 4238,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								309,
-								309
+								3701,
+								3701
 							]
 						],
 						"settings":
@@ -882,7 +934,35 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 92.0,
+						"translation.y": 3489.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Marc/Documents/projects/store/icons/foundation_icons_general/foundation_icons_general/demo.html",
+					"settings":
+					{
+						"buffer_size": 7812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4614,
+								4506
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
