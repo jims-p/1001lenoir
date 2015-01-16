@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"pro",
+				"profile-contact"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
 				"text",
 				"text-align"
 			],
@@ -32,14 +52,6 @@
 				"margin"
 			],
 			[
-				"fon",
-				"font-weight"
-			],
-			[
-				"font",
-				"font-family"
-			],
-			[
 				"min",
 				"min-height"
 			],
@@ -48,16 +60,8 @@
 				"background-color"
 			],
 			[
-				"back",
-				"background-color"
-			],
-			[
 				"padd",
 				"padding"
-			],
-			[
-				"paddin",
-				"padding-left"
 			],
 			[
 				"marg",
@@ -287,8 +291,56 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 9846,
+				"buffer_size": 5613,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/head.inc.php",
+			"settings":
+			{
+				"buffer_size": 649,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/header.inc.php",
+			"settings":
+			{
+				"buffer_size": 515,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "members/neoinformatics/index.php",
+			"settings":
+			{
+				"buffer_size": 7512,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/events.inc.php",
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/announcements.inc.php",
+			"settings":
+			{
+				"buffer_size": 2321,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/featured.inc.php",
+			"settings":
+			{
+				"buffer_size": 335,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -300,19 +352,11 @@
 			}
 		},
 		{
-			"file": "/C/wamp/www/___projects/Agrimetal FR/index.php",
+			"file": "___projects/Agrimetal FR/index.php",
 			"settings":
 			{
 				"buffer_size": 4208,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/wamp/www/___projects/barbaraasgary/en/bio.php",
-			"settings":
-			{
-				"buffer_size": 5424,
-				"line_ending": "Unix"
 			}
 		},
 		{
@@ -324,19 +368,19 @@
 			}
 		},
 		{
-			"file": "css/screen.css",
+			"file": "___projects/barbaraasgary/en/contact.php",
 			"settings":
 			{
-				"buffer_size": 4238,
-				"line_ending": "Windows"
+				"buffer_size": 4647,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Users/Marc/Documents/projects/store/icons/foundation_icons_general/foundation_icons_general/demo.html",
+			"file": "css/screen.css",
 			"settings":
 			{
-				"buffer_size": 7812,
-				"line_ending": "Unix"
+				"buffer_size": 5774,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -372,6 +416,22 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Marc/Documents/projects/store/icons/foundation_icons_general/foundation_icons_general/demo.html",
+		"/C/wamp/www/js/foundation/foundation.abide.js",
+		"/C/wamp/www/sales.htm",
+		"/C/wamp/www/___projects/barbaraasgary/en/contact.php",
+		"/C/wamp/www/members/contact.php",
+		"/C/wamp/www/contact.php",
+		"/C/wamp/www/contacts.htm",
+		"/C/wamp/www/___projects/barbaraasgary/en/bio.php",
+		"/C/wamp/www/index_next.php",
+		"/C/wamp/www/___projects/1001lenoir/index.html",
+		"/C/wamp/www/___projects/1001lenoir/assets/css/style.css",
+		"/C/wamp/www/___projects/1001lenoir/assets/js/jquery.backstretch.min.js",
+		"/C/wamp/www/___projects/1001lenoir/assets/js/scripts.js",
+		"/C/wamp/www/___projects/1001lenoir/index.php",
+		"/C/wamp/www/___projects/1001lenoir/include/featured.inc.php",
+		"/C/wamp/www/___projects/1001lenoir/include/related.inc.php",
 		"/C/wamp/www/___projects/barbaraasgary/index.php",
 		"/C/wamp/www/___projects/barbaraasgary/css/foundation.css",
 		"/C/wamp/www/___projects/barbaraasgary/en/index.php",
@@ -400,7 +460,6 @@
 		"/C/wamp/www/___projects/bimetalic/include/head.inc.php",
 		"/C/wamp/www/___projects/bimetalic/include/headerbanner.inc.php",
 		"/C/wamp/www/___projects/bimetalic/css/screen.css",
-		"/C/wamp/www/js/foundation/foundation.abide.js",
 		"/C/wamp/www/___projects/bimetalic/index.php",
 		"/C/wamp/www/___projects/barbaraasgary/humans.txt",
 		"/C/wamp/www/___projects/barbaraasgary/index.html",
@@ -484,22 +543,7 @@
 		"/C/wamp/www/~shindosa/impact/tma/index.php",
 		"/C/wamp/www/~shindosa/parking/parkingcurb/index.php",
 		"/C/wamp/www/~shindosa/parking/speedhump/index.php",
-		"/C/wamp/www/~shindosa/parking/trafficconvexmirror/index.php",
-		"/C/wamp/www/~shindosa/include/footer.inc.php",
-		"/C/wamp/www/~shindosa/css/sub.css",
-		"/C/wamp/www/~shindosa/guardrail/flexibleforbridge/index.php",
-		"/C/wamp/www/~shindosa/guardrail/opentypeformedianstrip/index.php",
-		"/C/wamp/www/~shindosa/guardrail/opentypeforroadside/index.php",
-		"/C/wamp/www/~shindosa/guardrail/standardformedianstrip/index.php",
-		"/C/wamp/www/~shindosa/guardrail/standardforroadside/index.php",
-		"/C/wamp/www/~shindosa/guardrail/uppersectionofconcrete/index.php",
-		"/C/wamp/www/~shindosa/guardrail/opentypeforbridge/index.php",
-		"/C/wamp/www/~shindosa/guardrail/flexibleformedianstrip/index.php",
-		"/C/wamp/www/~shindosa/guardrail/flexibleforroadside/index.php",
-		"/C/wamp/www/~shindosa/css/nyroModal.css",
-		"/C/wamp/www/~shindosa/css/microfiche.css",
-		"/C/wamp/www/~shindosa/css/contactform.css",
-		"/C/wamp/www/~shindosa/contactus.php"
+		"/C/wamp/www/~shindosa/parking/trafficconvexmirror/index.php"
 	],
 	"find":
 	{
@@ -517,6 +561,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"resultmessage",
+			"required",
+			"small-6",
+			"members/neoi",
 			"979",
 			"transition",
 			"transform",
@@ -640,11 +688,7 @@
 			"image8",
 			"active",
 			"helvetica_neueregular",
-			"/products/",
-			"/~delidisp/",
-			"../",
-			"./",
-			"/~delidisp/~delidisp/"
+			"/products/"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -652,6 +696,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
+			"small-5",
+			"/members/neoi",
 			"height: 774px",
 			"/guardrails",
 			"/",
@@ -763,7 +810,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -771,15 +818,15 @@
 					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 9846,
+						"buffer_size": 5613,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5993,
-								5993
+								804,
+								804
 							]
 						],
 						"settings":
@@ -790,13 +837,182 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1485.0,
+						"translation.y": 315.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "include/head.inc.php",
+					"settings":
+					{
+						"buffer_size": 649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								292,
+								292
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "include/header.inc.php",
+					"settings":
+					{
+						"buffer_size": 515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								468,
+								468
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "members/neoinformatics/index.php",
+					"settings":
+					{
+						"buffer_size": 7512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1961,
+								1961
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 667.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "include/events.inc.php",
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "include/announcements.inc.php",
+					"settings":
+					{
+						"buffer_size": 2321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "include/featured.inc.php",
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								272,
+								272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
 					"file": "/C/Users/Marc/Documents/projects/store/templates/foundation-5.4.7/index.html",
 					"settings":
 					{
@@ -824,8 +1040,8 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/C/wamp/www/___projects/Agrimetal FR/index.php",
+					"buffer": 8,
+					"file": "___projects/Agrimetal FR/index.php",
 					"settings":
 					{
 						"buffer_size": 4208,
@@ -857,35 +1073,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 3,
-					"file": "/C/wamp/www/___projects/barbaraasgary/en/bio.php",
-					"settings":
-					{
-						"buffer_size": 5424,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								308,
-								308
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
+					"buffer": 9,
 					"file": "css/foundation.css",
 					"settings":
 					{
@@ -896,8 +1084,8 @@
 						"selection":
 						[
 							[
-								19113,
-								19021
+								152,
+								152
 							]
 						],
 						"settings":
@@ -913,19 +1101,48 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "css/screen.css",
+					"buffer": 10,
+					"file": "___projects/barbaraasgary/en/contact.php",
 					"settings":
 					{
-						"buffer_size": 4238,
+						"buffer_size": 4647,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3701,
-								3701
+								1472,
+								1472
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "css/screen.css",
+					"settings":
+					{
+						"buffer_size": 5774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4323,
+								4323
 							]
 						],
 						"settings":
@@ -934,35 +1151,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3489.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/C/Users/Marc/Documents/projects/store/icons/foundation_icons_general/foundation_icons_general/demo.html",
-					"settings":
-					{
-						"buffer_size": 7812,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4614,
-								4506
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 990.0,
+						"translation.y": 3894.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

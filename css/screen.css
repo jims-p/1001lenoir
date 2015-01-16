@@ -31,11 +31,16 @@ a h3 {
 	color: #017eba;
 }
 
+span.tabulation {
+	margin-left: 20px;
+}
+
 /*.row {
  	max-width: 100%;
 }*/
 
-.button {
+
+button, .button {
 	text-transform: uppercase;
 	font-family: "Open Sans", "Arial", "Helvetica", sans-serif;
 	font-weight: 400;
@@ -46,7 +51,7 @@ a h3 {
 }
 
 .header {
-	background: url(../img/header_001.jpg) no-repeat center center;
+	background: url(/img/header_001.jpg) no-repeat center center;
 	-webkit-background-size: contain;
 	-moz-background-size: contain;
 	-o-background-size: contain;
@@ -103,7 +108,7 @@ a h3 {
 	padding-right: 0.9375rem;
 }
 
-.row .underspotlight {
+.featured {
 	text-align: center;
 	border-bottom: solid 1px #dadada;
 	padding-bottom: 30px;
@@ -282,6 +287,106 @@ select {
 	padding: 1rem 2rem 1.0625rem;
 }
 
+
+
+
+/*				PROFILE				*/
+.cover {
+	height: 282px;
+	overflow: hidden;
+	position: relative;
+}
+
+.cover img {
+	max-width: 100%;
+	width: 100%;
+	position: relative;
+	height: auto;
+	vertical-align: middle;
+	top: -50%;
+}
+
+.profile-pic {
+	text-align: center;
+	position: relative;
+	height: 150px;
+}
+
+.profile-pic img {
+	vertical-align: middle;
+}
+
+.profile-infos, .profile-description, .profile-contact {
+	margin-top: 20px;
+	border-bottom: solid 1px #dadada;
+	padding-bottom: 20px;
+	font-family: "Varela Round", "Arial", "Helvetica", sans-serif;
+}
+
+.profile-name {
+	font-size: 1.5rem;
+}
+
+.profile-category, .profile-location, .profile-phone {
+	font-size: 1.1rem;
+	line-height: normal;
+}
+
+.profile-description, .profile-contact {
+	border: none;
+}
+
+.profile-description p, .profile-description ul {
+	font-family: 'Open Sans', 'Arial', 'Helvetica', sans-serif;
+}
+
+.profile-hours {
+	border: none;
+}
+
+.profile-hours tr:nth-of-type(even) {
+	background: none;
+}
+
+.profile-products {
+	max-width: 100%;
+	background-color: #dadada;
+	padding: 40px 0;
+	text-align: center;
+	position: relative;
+}
+
+.products-item {
+	margin: 5px 0;
+}
+
+.products-item img {
+	background-color: #fff;
+	padding: 5px;
+	box-shadow: 2px 2px 5px #888888;
+	position: relative;
+}
+
+.profile-contact input[type="text"], .profile-contact input[type="email"], .profile-contact textarea, .profile-contact .postfix {
+	margin-top: 10px;
+}
+
+.profile-contact button {
+	font-size: 1rem;
+	line-height: 1.4rem;
+	border-radius: 2px;
+	padding: 1rem 2rem 1.0625rem;
+}
+
+.profile-map {
+	max-width: 100%;
+}
+
+.bigmap {
+	width: 100%;
+	background-color: #717074;
+	height: 400px;
+}
 
 
 @media only screen and (min-width: 64.063em) {

@@ -43,8 +43,8 @@
             <!-- START COPY HERE -->
             <div class="small-6 medium-4 large-4 columns">
               <li class="box_item">
-                <a href="/members/neoinformatics"><div>
-                  <span class="helper"></span><img class="box_logo" src="/members/neoinformatics/img/neoinformatics_0.png">
+                <a><div>
+                  <span class="helper"></span><img class="box_logo" src="members/neoinformatics/img/neoinformatics_0.png">
                   <div class="caption"><h3 class="business_name">Business name</h3><span class="location">Suite B-521</span></div>
                 </div></a>
               </li>
@@ -54,7 +54,7 @@
             <div class="small-6 medium-4 large-4 columns">
               <li class="box_item">
                 <a><div>
-                  <span class="helper"></span><img class="box_logo" src="/members/neoinformatics/img/neoinformatics_0.png">
+                  <span class="helper"></span><img class="box_logo" src="members/neoinformatics/img/neoinformatics_0.png">
                   <div class="caption"><h3 class="business_name">Business name 2</h3><span class="location">5645 Yonge Street, Toronto, ON, Canada, M2M 3T2</span></div>
                 </div></a>
               </li>
@@ -63,7 +63,7 @@
             <div class="small-6 medium-4 large-4 columns">
               <li class="box_item">
                 <a><div>
-                  <span class="helper"></span><img class="box_logo" src="/members/neoinformatics/img/neoinformatics_0.png">
+                  <span class="helper"></span><img class="box_logo" src="members/neoinformatics/img/neoinformatics_0.png">
                   <div class="caption"><h3 class="business_name">Business name 3</h3><span class="location">Location</span></div>
                 </div></a>
               </li>
@@ -72,7 +72,7 @@
             <div class="small-6 medium-4 large-4 columns">
               <li class="box_item">
                 <a><div>
-                  <span class="helper"></span><img class="box_logo" src="/members/neoinformatics/img/neoinformatics_0.png">
+                  <span class="helper"></span><img class="box_logo" src="members/neoinformatics/img/neoinformatics_0.png">
                   <div class="caption"><h3 class="business_name">Business name 4</h3><span class="location">Location</span></div>
                 </div></a>
               </li>
@@ -81,7 +81,7 @@
             <div class="small-6 medium-4 large-4 columns">
               <li class="box_item">
                 <a><div>
-                  <span class="helper"></span><img class="box_logo" src="/members/neoinformatics/img/neoinformatics_0.png">
+                  <span class="helper"></span><img class="box_logo" src="members/neoinformatics/img/neoinformatics_0.png">
                   <div class="caption"><h3 class="business_name">Business name 5</h3><span class="location">Location</span></div>
                 </div></a>
               </li>
@@ -90,7 +90,7 @@
             <div class="small-6 medium-4 large-4 columns">
               <li class="box_item">
                 <a><div>
-                  <span class="helper"></span><img class="box_logo" src="/members/neoinformatics/img/neoinformatics_0.png">
+                  <span class="helper"></span><img class="box_logo" src="members/neoinformatics/img/neoinformatics_0.png">
                   <div class="caption"><h3 class="business_name">Business name 6</h3><span class="location">Location</span></div>
                 </div></a>
               </li>
@@ -99,7 +99,7 @@
             <div class="small-6 medium-4 large-4 columns">
               <li class="box_item">
                 <a><div>
-                  <span class="helper"></span><img class="box_logo" src="/members/neoinformatics/img/neoinformatics_0.png">
+                  <span class="helper"></span><img class="box_logo" src="members/neoinformatics/img/neoinformatics_0.png">
                   <div class="caption"><h3 class="business_name">Business name 7</h3><span class="location">Location</span></div>
                 </div></a>
               </li>
@@ -108,7 +108,7 @@
             <div class="small-6 medium-4 large-4 columns end">
               <li class="box_item">
                 <a><div>
-                  <span class="helper"></span><img class="box_logo" src="/members/neoinformatics/img/neoinformatics_0.png">
+                  <span class="helper"></span><img class="box_logo" src="members/neoinformatics/img/neoinformatics_0.png">
                   <div class="caption"><h3 class="business_name">Business name 8</h3><span class="location">Location</span></div>
                 </div></a>
               </li>
