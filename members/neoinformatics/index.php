@@ -32,11 +32,11 @@
 
         if ($valid){
             $to = "jim@neoinformatics.com";         // DON'T FORGET TO CHANGE EMAIL HERE BEFORE LAUCH
-            $subject = "Message from ".$name." ,visitor of barbaraasgary.com";
+            $subject = "Message from ".$name." ,visitor of 1001lenoir.com";
             $header = "";
             $message = stripslashes($message)."\n"."\n";
             $message .= $name."\n";
-            $message .= $email."\n";
+            $message .= $email;
             $name = stripslashes($name);
 
             if (mail($to, $subject, $message)) {
@@ -152,53 +152,63 @@
 
       <div class="large-12 column">
         <h2>Send a message to *Profile name here*</h2>        <!-- DON'T FORGET TO CHANGE THE NAME HERE -->
-        <form data-abide id="myform" method="post" action="./index.php" name="form">
-          <div class="large-6 columns">
-            <div class="row">
-              <div class="large-12 columns">
-                <label for="name" >Name:
-                  <input type="text" id="name" name="name" required pattern="[a-zA-Z]+" value="<?php if (isset($name)) echo $name; ?>" placeholder="Your name/Business name" />
-                  <small class="error">You forgot to write your name.</small>
-                </label>
-              </div>
+        <form data-abide id="myform" method="post" action="./index.php" name="form" class="large-6 columns">
+          <div class="row">
+            <div class="large-12 columns">
+              <label for="name" >Name:
+                <input type="text" id="name" name="name" required pattern="[a-zA-Z]+" value="<?php if (isset($name)) echo $name; ?>" placeholder="Your name/Business name" />
+                <small class="error">You forgot to write your name.</small>
+              </label>
             </div>
-            <div class="row">
-              <div class="large-12 columns">
-                <div class="row collapse">
-                  <label for="email">Email:</label>
-                  <div class="small-8 columns">
-                    <input id="email" name="email" required type="text" value="<?php if (isset($email)) echo $email; ?>" placeholder="Your email" />
-                    <small class="error">An email address is required.</small>
-                  </div>
-                  <div class="small-4 columns">
-                    <span class="postfix">@1001lenoir.com</span>
-                  </div>
+          </div>
+          <div class="row">
+            <div class="large-12 columns">
+              <div class="row collapse">
+                <label for="email">Email:</label>
+                <div class="small-12 columns">
+                  <input id="email" name="email" required type="text" pattern="email" value="<?php if (isset($email)) echo $email; ?>" placeholder="Your email" />
+                  <small class="error">An email address is required.</small>
                 </div>
+                <!-- <div class="small-4 columns">
+                  <span class="postfix">@1001lenoir.com</span>
+                </div> -->
               </div>
-            </div>
-            <div class="row">
-              <div class="large-12 columns">
-                <label for="subject">Subject:
-                  <input id="subject" name="subject" type="text" placeholder="" />
-                </label>
-              </div>
-            </div>
-            <div class="row">
-              <div class="large-12 columns">
-                <label for="message">Message
-                  <textarea id="message" name="message" required rows="8" placeholder="Your message"><?php if (isset($message)) echo $message; ?></textarea>
-                </label>
-                <small class="error">You forgot to write your message.</small>
-              </div>
-            </div>
-            <button type="submit" name="envoi">Send message</button>
-          </div>
-          <div class="large-6 columns">
-            <div class="row profile-map">
-              <div id="map-canvas" class="bigmap"></div>
             </div>
           </div>
+          <div class="row">
+            <div class="large-12 columns">
+              <label for="subject">Subject:
+                <input id="subject" name="subject" type="text" placeholder="" />
+              </label>
+            </div>
+          </div>
+          <div class="row">
+            <div class="large-12 columns">
+              <label for="message">Message
+                <textarea id="message" name="message" required rows="8" placeholder="Your message"><?php if (isset($message)) echo $message; ?></textarea>
+              </label>
+              <small class="error">You forgot to write your message.</small>
+            </div>
+          </div>
+          <p id="message_to_user">
+                              <?php 
+                                  if (isset($errorname))
+                                      echo $errorname;
+                                  if (isset($erroremail))
+                                      echo $erroremail;
+                                  if (isset($errormessage))
+                                      echo $errormessage;
+                                  if (isset($resultmessage))
+                                      echo $resultmessage;
+                              ?>
+                          </p>
+          <button type="submit" name="envoi">Send message</button>
         </form>
+        <div class="large-6 columns">
+          <div class="row profile-map">
+            <div id="map-canvas" class="bigmap"></div>
+          </div>
+        </div>
       </div>
     </div>
 
