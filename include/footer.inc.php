@@ -5,7 +5,7 @@
           <ul>
             <li><i class="foundicon-location"></i>1001, Rue Lenoir, Montréal, Québec, Canada, H4C 2Z6</li>
             <li><i class="foundicon-phone"></i>514-989-8780</li>
-            <li><i class="foundicon-mail"></i>lorem@ipsum.com</li>
+            <li><i class="foundicon-mail"></i><a href="mailto:info@1001lenoir.com">info@1001lenoir.com</a></li>
           </ul>
         </div>
         <div class="large-6 columns footer_rca">
@@ -13,7 +13,7 @@
           <ul>
             <li><i class="foundicon-location"></i>Edifice RCA 1001, Rue Lenoir, suite A-202, Montréal, Québec, H4C 2Z6</li>
             <li><i class="foundicon-phone"></i>514-933-2211</li>
-            <li><i class="foundicon-mail"></i>lorem@ipsum.com</li>
+            <!-- <li><i class="foundicon-mail"></i>lorem@ipsum.com</li> -->
           </ul>
         </div>
       </div>

@@ -4,23 +4,71 @@
 		"selected_items":
 		[
 			[
-				"pro",
-				"profile-contact"
+				"profile",
+				"profile-description"
 			],
 			[
-				"paddin",
-				"padding"
+				"font",
+				"font-size"
+			],
+			[
+				"pro",
+				"profile-description"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"in",
+				"info_btn"
 			],
 			[
 				"back",
 				"background-color"
 			],
 			[
-				"fon",
-				"font-family"
+				"backgroun",
+				"background"
 			],
 			[
-				"font",
+				"box",
+				"box_item"
+			],
+			[
+				"select",
+				"select-style"
+			],
+			[
+				"boxes",
+				"boxes_section"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"fon",
 				"font-family"
 			],
 			[
@@ -30,10 +78,6 @@
 			[
 				"inline",
 				"inline-block"
-			],
-			[
-				"border",
-				"border"
 			],
 			[
 				"opt",
@@ -92,10 +136,6 @@
 				"border"
 			],
 			[
-				"in",
-				"infolettre"
-			],
-			[
 				"list-styl",
 				"list-style-image"
 			],
@@ -152,10 +192,6 @@
 				"background-color"
 			],
 			[
-				"paddi",
-				"padding"
-			],
-			[
 				"fir",
 				"first-of-type"
 			],
@@ -200,10 +236,6 @@
 				"menucol2"
 			],
 			[
-				"mar",
-				"margin"
-			],
-			[
 				"no",
 				"none"
 			],
@@ -218,10 +250,6 @@
 			[
 				"sty",
 				"list-style"
-			],
-			[
-				"borde",
-				"border-left"
 			],
 			[
 				"bac",
@@ -291,7 +319,7 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 5613,
+				"buffer_size": 8741,
 				"line_ending": "Unix"
 			}
 		},
@@ -299,7 +327,7 @@
 			"file": "include/head.inc.php",
 			"settings":
 			{
-				"buffer_size": 649,
+				"buffer_size": 885,
 				"line_ending": "Windows"
 			}
 		},
@@ -307,7 +335,7 @@
 			"file": "include/header.inc.php",
 			"settings":
 			{
-				"buffer_size": 515,
+				"buffer_size": 679,
 				"line_ending": "Windows"
 			}
 		},
@@ -315,7 +343,23 @@
 			"file": "members/neoinformatics/index.php",
 			"settings":
 			{
-				"buffer_size": 7512,
+				"buffer_size": 8594,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "members/h20mma/index.php",
+			"settings":
+			{
+				"buffer_size": 9485,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/footer.inc.php",
+			"settings":
+			{
+				"buffer_size": 933,
 				"line_ending": "Windows"
 			}
 		},
@@ -323,7 +367,7 @@
 			"file": "include/events.inc.php",
 			"settings":
 			{
-				"buffer_size": 89,
+				"buffer_size": 244,
 				"line_ending": "Windows"
 			}
 		},
@@ -339,32 +383,8 @@
 			"file": "include/featured.inc.php",
 			"settings":
 			{
-				"buffer_size": 335,
+				"buffer_size": 470,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Marc/Documents/projects/store/templates/foundation-5.4.7/index.html",
-			"settings":
-			{
-				"buffer_size": 6424,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "___projects/Agrimetal FR/index.php",
-			"settings":
-			{
-				"buffer_size": 4208,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "css/foundation.css",
-			"settings":
-			{
-				"buffer_size": 187756,
-				"line_ending": "Unix"
 			}
 		},
 		{
@@ -379,8 +399,32 @@
 			"file": "css/screen.css",
 			"settings":
 			{
-				"buffer_size": 5774,
+				"buffer_size": 9362,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/slides.css",
+			"settings":
+			{
+				"buffer_size": 1929,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/jquery.slides.js",
+			"settings":
+			{
+				"buffer_size": 21170,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Marc/Documents/projects/store/js/Slides-SlidesJS-3/Slides-SlidesJS-3/examples/multiple/index.html",
+			"settings":
+			{
+				"buffer_size": 6343,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -392,7 +436,7 @@
 		[
 			[
 				"Snippet: ",
-				"Snippet: return"
+				"Snippet: onclickreturn"
 			],
 			[
 				"Snippet: c",
@@ -416,6 +460,31 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/css/foundation.css",
+		"/C/wamp/www/members/neoinformatics/map/googlemaps.inc.php",
+		"/C/wamp/www/js/jquery.slides.min.js",
+		"/C/Users/Marc/Documents/projects/store/templates/foundation-5.4.7/index.html",
+		"/C/wamp/www/___projects/Agrimetal FR/include/head.inc.php",
+		"/C/Users/Marc/Documents/projects/store/js/Slides-SlidesJS-3/Slides-SlidesJS-3/source/jquery.slides.js",
+		"/C/Users/Marc/Documents/projects/store/js/Slides-SlidesJS-3/Slides-SlidesJS-3/examples/multiple/css/example.css",
+		"/C/wamp/www/___projects/1001lenoir/index_temp.html",
+		"/C/wamp/www/css/filter.css",
+		"/C/wamp/www/js/filter.js",
+		"/C/Users/Marc/Documents/projects/store/js/content-filter/content-filter/index.html",
+		"/C/Users/Marc/Documents/projects/store/js/simple-portfolio-page/simple-portfolio-page/index.html",
+		"/C/Users/Marc/Documents/projects/store/js/content-filter/content-filter/css/style.css",
+		"/C/Users/Marc/Documents/projects/store/js/content-filter/content-filter/js/main.js",
+		"/C/wamp/www/___projects/Agrimetal FR/index.php",
+		"/C/wamp/www/css/general_foundicons.css",
+		"/C/wamp/www/css/social_foundicons.css",
+		"/C/wamp/www/css/accessibility_foundicons.css",
+		"/C/Users/Marc/Documents/projects/ZOne Enseignes/htmlen/index.php",
+		"/C/Users/Marc/Documents/projects/ZOne Enseignes/htmlen/include/headerbanner.inc.php",
+		"/C/Users/Marc/Documents/projects/ZOne Enseignes/htmlen/include/googlemaps.inc.php",
+		"/C/Users/Marc/Documents/projects/ZOne Enseignes/htmlen/css/screen.css",
+		"/C/Users/Marc/Documents/projects/ZOne Enseignes/htmlen/include/head.inc.php",
+		"/C/Users/Marc/Documents/projects/phetomical/htmlen/include/headerbanner.inc.php",
+		"/C/Users/Marc/Documents/projects/phetomical/htmlen/index.php",
 		"/C/Users/Marc/Documents/projects/store/icons/foundation_icons_general/foundation_icons_general/demo.html",
 		"/C/wamp/www/js/foundation/foundation.abide.js",
 		"/C/wamp/www/sales.htm",
@@ -518,32 +587,7 @@
 		"/C/wamp/www/~shindosa/guardrails/uppersectionofconcrete/index.php",
 		"/C/wamp/www/~shindosa/guardrails/opentypeforbridge/index.php",
 		"/C/wamp/www/~shindosa/guardrails/opentypeformedianstrip/index.php",
-		"/C/wamp/www/~shindosa/guardrails/opentypeforroadside/index.php",
-		"/C/wamp/www/~shindosa/guardrails/flexibleforroadside/index.php",
-		"/C/wamp/www/~shindosa/guardrails/flexibleformedianstrip/index.php",
-		"/C/wamp/www/~shindosa/guardrails/flexibleforbridge/index.php",
-		"/C/wamp/www/~shindosa/guardrails/standardforroadside/index.php",
-		"/C/wamp/www/~shindosa/guardrails/standardformedianstrip/index.php",
-		"/C/wamp/www/~shindosa/aboutus.php",
-		"/C/wamp/www/~shindosa/sitemap.php",
-		"/C/wamp/www/~shindosa/sub.php",
-		"/C/wamp/www/~shindosa/construction/plasticbarricade/index.php",
-		"/C/wamp/www/~shindosa/construction/safetybarricade/index.php",
-		"/C/wamp/www/~shindosa/construction/safetydrum/index.php",
-		"/C/wamp/www/~shindosa/construction/signboard/index.php",
-		"/C/wamp/www/~shindosa/construction/signboardstand/index.php",
-		"/C/wamp/www/~shindosa/construction/smartfence/index.php",
-		"/C/wamp/www/~shindosa/impact/ccsiiparallel/index.php",
-		"/C/wamp/www/~shindosa/impact/ccsinonparallel/index.php",
-		"/C/wamp/www/~shindosa/impact/ccsiparallel/index.php",
-		"/C/wamp/www/~shindosa/impact/endterminal/index.php",
-		"/C/wamp/www/~shindosa/impact/honeycombsystem/index.php",
-		"/C/wamp/www/~shindosa/impact/pcs123/index.php",
-		"/C/wamp/www/~shindosa/impact/rollingguardbarrier/index.php",
-		"/C/wamp/www/~shindosa/impact/tma/index.php",
-		"/C/wamp/www/~shindosa/parking/parkingcurb/index.php",
-		"/C/wamp/www/~shindosa/parking/speedhump/index.php",
-		"/C/wamp/www/~shindosa/parking/trafficconvexmirror/index.php"
+		"/C/wamp/www/~shindosa/guardrails/opentypeforroadside/index.php"
 	],
 	"find":
 	{
@@ -561,6 +605,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".header .logo",
+			"medium-4",
+			"slidesjs-slide",
+			"slides-slide",
+			"shadow",
+			"li",
+			"select",
+			"shadow",
+			"columns\" data-cat=\"media\"",
 			"resultmessage",
 			"required",
 			"small-6",
@@ -679,16 +732,7 @@
 			"160",
 			"<br><span>",
 			"</span>",
-			"#footer-menu li a",
-			"/images",
-			"withimage",
-			"input",
-			"f03629",
-			"2d2a26",
-			"image8",
-			"active",
-			"helvetica_neueregular",
-			"/products/"
+			"#footer-menu li a"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -696,6 +740,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"medium-6",
+			"columns member\" data-cat=\"media\"",
 			"",
 			"small-5",
 			"/members/neoi",
@@ -810,7 +856,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 8,
 			"sheets":
 			[
 				{
@@ -818,15 +864,15 @@
 					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 5613,
+						"buffer_size": 8741,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								804,
-								804
+								1016,
+								1016
 							]
 						],
 						"settings":
@@ -837,7 +883,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 315.0,
+						"translation.y": 360.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -847,15 +893,15 @@
 					"file": "include/head.inc.php",
 					"settings":
 					{
-						"buffer_size": 649,
+						"buffer_size": 885,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								292,
-								292
+								445,
+								445
 							]
 						],
 						"settings":
@@ -875,15 +921,15 @@
 					"file": "include/header.inc.php",
 					"settings":
 					{
-						"buffer_size": 515,
+						"buffer_size": 679,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								468,
-								468
+								679,
+								679
 							]
 						],
 						"settings":
@@ -903,15 +949,15 @@
 					"file": "members/neoinformatics/index.php",
 					"settings":
 					{
-						"buffer_size": 7512,
+						"buffer_size": 8594,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1961,
-								1961
+								4924,
+								4939
 							]
 						],
 						"settings":
@@ -922,25 +968,82 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 667.0,
+						"translation.y": 1490.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "include/events.inc.php",
+					"file": "members/h20mma/index.php",
 					"settings":
 					{
-						"buffer_size": 89,
+						"buffer_size": 9485,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								50,
-								50
+								4358,
+								4358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1119.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "include/footer.inc.php",
+					"settings":
+					{
+						"buffer_size": 933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								410,
+								410
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "include/events.inc.php",
+					"settings":
+					{
+						"buffer_size": 244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
 							]
 						],
 						"settings":
@@ -956,7 +1059,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 7,
 					"file": "include/announcements.inc.php",
 					"settings":
 					{
@@ -984,19 +1087,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 8,
 					"file": "include/featured.inc.php",
 					"settings":
 					{
-						"buffer_size": 335,
+						"buffer_size": 470,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								272,
-								272
+								312,
+								312
 							]
 						],
 						"settings":
@@ -1004,61 +1107,6 @@
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/C/Users/Marc/Documents/projects/store/templates/foundation-5.4.7/index.html",
-					"settings":
-					{
-						"buffer_size": 6424,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								459,
-								459
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1170.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "___projects/Agrimetal FR/index.php",
-					"settings":
-					{
-						"buffer_size": 4208,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1054,
-								1029
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1069,39 +1117,11 @@
 			]
 		},
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 9,
-					"file": "css/foundation.css",
-					"settings":
-					{
-						"buffer_size": 187756,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								152,
-								152
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
 					"file": "___projects/barbaraasgary/en/contact.php",
 					"settings":
 					{
@@ -1130,19 +1150,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 10,
 					"file": "css/screen.css",
 					"settings":
 					{
-						"buffer_size": 5774,
+						"buffer_size": 9362,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4323,
-								4323
+								9099,
+								9099
 							]
 						],
 						"settings":
@@ -1151,7 +1171,91 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3894.0,
+						"translation.y": 8576.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "css/slides.css",
+					"settings":
+					{
+						"buffer_size": 1929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1407,
+								1407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1127.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "js/jquery.slides.js",
+					"settings":
+					{
+						"buffer_size": 21170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2104,
+								2101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Users/Marc/Documents/projects/store/js/Slides-SlidesJS-3/Slides-SlidesJS-3/examples/multiple/index.html",
+					"settings":
+					{
+						"buffer_size": 6343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								994,
+								2929
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1305.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

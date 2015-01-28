@@ -1,0 +1,105 @@
+#slides,
+    #slides2,
+    #slides3 {
+      display: none;
+      margin-bottom:50px;
+    }
+
+    .slidesjs-navigation {
+      margin-top:3px;
+    }
+
+    .slidesjs-previous {
+      margin-right: 5px;
+      float: left;
+    }
+
+    .slidesjs-next {
+      margin-right: 5px;
+      float: left;
+    }
+
+    .slidesjs-pagination {
+      margin: -15px 0 0;
+      /*float: right;*/
+      list-style: none;
+      z-index: 20;
+      position: relative;
+    }
+
+    .slidesjs-pagination li {
+      float: left;
+      margin: 0 1px;
+    }
+
+    .slidesjs-pagination li a {
+      display: block;
+      /*width: 160px;*/
+      width: 100px;
+      height: 10px;
+      padding-top: 10px;
+      background-color: rgba(255, 255, 255, 0.6);
+      float: left;
+      overflow: hidden;
+      margin-top: 5px;
+    }
+
+    .slidesjs-pagination li a.active,
+    .slidesjs-pagination li a:hover.active {
+      background-color: rgba(1, 126, 186, 0.6);
+      height: 15px;
+      margin-top: 0;
+    }
+
+    .slidesjs-pagination li a:hover {
+      background-position: 0 -26px
+    }
+
+    .slidesjs-play, .slidesjs-stop {
+      display: none;
+    }
+/*  <!-- End SlidesJS Optional-->
+
+  <!-- SlidesJS Required: These styles are required if you'd like a responsive slideshow -->*/
+ 
+    #slides {
+      display: none
+    }
+
+    .container {
+      margin: 0 auto
+    }
+
+    /* For tablets & smart phones */
+    @media (max-width: 767px) {
+      .container {
+        width: auto
+      }
+    }
+
+    /* For smartphones */
+    @media (max-width: 480px) {
+      .container {
+        width: auto
+      }
+
+       .slidesjs-pagination li a {
+          width: 60px;
+       }
+    }
+
+    /* For smaller displays like laptops */
+    @media (min-width: 768px) and (max-width: 979px) {
+      .container {
+        width: 724px
+      }
+    }
+
+    /* For larger displays */
+    @media (min-width: 1200px) {
+      .container {
+        width: 1170px
+      }
+    }
+
+/*SlidesJS Required*/
